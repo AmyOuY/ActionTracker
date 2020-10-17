@@ -11,6 +11,10 @@
 <img src="./images/actionsList.png">
 
 <hr />
+<h3> Edit Action </h3>
+<img src="./images/editAction.png">
+
+<hr />
 <h3> Create New Action </h3>
 <img src="./images/createAction.png">
 
